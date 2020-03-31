@@ -1,2 +1,2 @@
 # sqlite3MFCDemo
-this is  sqlite3 demo
+this is  sqlite3 demo COME ON
